@@ -52,7 +52,7 @@ Instead of relying on black-box classifications, this framework integrates **Tre
 * **Electronic Graph Configurations:** Physical-chemical descriptors measuring surface charges and geometric shapes serve as vital global properties, showing that distinct surface charge variations dictate renal tissue affinity or reabsorption behavior.
 * **Circular Substructures:** Local structural fragments mapped within the 2048-bit circular array generate high positive Shapley values, providing reproducible, data-driven toxicophore evidence that shifts outputs toward toxic risk boundaries.
 
-![SHAP Summary Plot](SHAP_Summary.png)
+![SHAP Summary Plot](https://github.com/sakshihulke11-oss/KidneyTox-QSAR/blob/main/SHAP_Summary%20(7).png)
 
 ---
 
